@@ -1,5 +1,3 @@
-title : Design template
-
 Hi this is a template for design website! it's one of my initials project
 
 check live preview ! 
